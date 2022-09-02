@@ -1,10 +1,9 @@
-import './App.css';
+import './App.scss';
+import Faq from './components/Faq';
 
 function App() {
   return (
-    <div className="App">
-
-    </div>
+     <Faq />
   );
 }
 
