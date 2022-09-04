@@ -9,6 +9,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  max-width: 700px;
+  margin: 0 auto;
 }
 
 .faq {
@@ -23,10 +25,18 @@
   border-bottom: 1px solid;
 }
 .q-and-a .questions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   margin-bottom: 10px;
   text-align: left;
+  cursor: pointer;
 }
 .q-and-a .answers {
   font-size: 14px;
   margin-bottom: 15px;
+  display: none;
+}
+.q-and-a .showAnswer {
+  display: block;
 }/*# sourceMappingURL=App.css.map */
