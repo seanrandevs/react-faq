@@ -1,4 +1,3 @@
-import { useState } from "react";
 import QandA from "./QandA";
 import faqData from "../faqData";
 
@@ -6,7 +5,7 @@ const Faq = () => {
 
   return (
     <div className="container">
-      <div className="faq">Frequently Asked Questions</div>
+      <header className="faq">Frequently Asked Questions</header>
       
       {faqData.map((faq) => (
         <QandA 

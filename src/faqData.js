@@ -1,4 +1,5 @@
- export default [
+ // eslint-disable-next-line
+ export default  [
     {
         id:1,
         question: "When will my order ship?",
