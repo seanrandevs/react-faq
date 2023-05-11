@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-faq/static/css/main.f12ec9b5.css",
+    "main.css": "/react-faq/static/css/main.46f59516.css",
     "main.js": "/react-faq/static/js/main.d6df0981.js",
     "static/js/787.fc0f52a3.chunk.js": "/react-faq/static/js/787.fc0f52a3.chunk.js",
     "index.html": "/react-faq/index.html",
-    "main.f12ec9b5.css.map": "/react-faq/static/css/main.f12ec9b5.css.map",
+    "main.46f59516.css.map": "/react-faq/static/css/main.46f59516.css.map",
     "main.d6df0981.js.map": "/react-faq/static/js/main.d6df0981.js.map",
     "787.fc0f52a3.chunk.js.map": "/react-faq/static/js/787.fc0f52a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f12ec9b5.css",
+    "static/css/main.46f59516.css",
     "static/js/main.d6df0981.js"
   ]
 }
