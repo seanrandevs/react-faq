@@ -21,8 +21,9 @@
 
 .q-and-a {
     margin: 7px 0 ;
-    min-width: 700px;
+    width: 700px;
     border-bottom: 1px solid;
+    padding: 0 1rem;
 
  .questions {
     display: flex;
@@ -42,6 +43,12 @@
  .showAnswer { 
     display: block;
  }
+}
+
+@media screen and (max-width: 767px) {
+    .q-and-a {
+        max-width: 475px;
+    }
 }
 
 
